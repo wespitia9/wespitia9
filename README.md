@@ -1,7 +1,12 @@
+<img src="http://www.cristalglobalsolutions.com/images/software-development-banner_2860.jpg" class="d-block w-100" alt="...">
 <h1 align="center">Hi 👋, I'm Wilson Espitia Humanez</h1>
 <h3 align="center">Full stack developer MERN from Medellín, Colombia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wespitia9&label=Profile%20views&color=0e75b6&style=flat" alt="wespitia9" /> </p>
+[![Linkedin: Wilson Espitia](https://img.shields.io/badge/-WilsonEspitia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonespitia/)](https://www.linkedin.com/in/wilsonespitia/)
+[![GitHub wespitia](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/wespitia9)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQyHrZmLHzi3JyJMv6DOwqQ?style=social)
+<!--![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCio7gIFilw6wsgbTZAVOBrg?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/codewithghazi?style=social)-->
 
 - 🔭 I’m currently working on **Software development instructor**
 
