@@ -1,4 +1,4 @@
-<img src="http://www.cristalglobalsolutions.com/images/software-development-banner_2860.jpg" class="d-block w-100" alt="...">
+<img src="https://anayacybertech.com/wp-content/uploads/2018/07/cstmswft-1170x341.jpg" class="d-block w-100" alt="...">
 <h1 align="center">Hi 👋, I'm Wilson Espitia Humanez</h1>
 <h3 align="center">Full stack developer MERN from Medellín, Colombia.</h3>
 
