@@ -1,6 +1,6 @@
 <img src="https://anayacybertech.com/wp-content/uploads/2018/07/cstmswft-1170x341.jpg" class="d-block w-100" alt="...">
 <h1 align="center">Hi 👋, I'm Wilson Espitia Humanez</h1>
-<h3 align="center">Full stack developer MERN from Medellín, Colombia.</h3>
+<h3 align="center">Articulator, consultant and developer in technologies 4.0 & I+D+I from Medellín, Colombia.</h3>
 
 [![Linkedin: Wilson Espitia](https://img.shields.io/badge/-WilsonEspitia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonespitia/)](https://www.linkedin.com/in/wilsonespitia/)
 [![GitHub wespitia](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/wespitia9)
@@ -25,7 +25,7 @@
 </p><hr>
 
 <h3 align="left">Programming Languages:</h3>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <hr>
 
 <h3 align="left">Frontend Development:</h3>
