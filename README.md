@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQE3fteJ4Lu3Zg/profile-displaybackgroundimage-shrink_350_1400/0/1679184027727?e=1684972800&v=beta&t=500YWt685UMLZu80QbuNf-R31cnYzEfleKVaQugqjuM" class="d-block w-100" alt="...">
-<h1 align="center">Hola 👋, mi nombre es Wilson Espitia Humanez, soy un Ingeniero de Sistemas y Especialista en Inteligencia Artificial  </h1>
+<h1 align="center">Hola 👋, mi nombre es Wilson Espitia Humanez, soy Ingeniero de Sistemas y Especialista en Inteligencia Artificial  </h1>
 
 [![Linkedin: Wilson Espitia](https://img.shields.io/badge/-WilsonEspitia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonespitia/)](https://www.linkedin.com/in/wilsonespitia/)
 
