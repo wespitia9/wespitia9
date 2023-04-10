@@ -4,7 +4,7 @@
 [![Linkedin: Wilson Espitia](https://img.shields.io/badge/-WilsonEspitia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonespitia/)](https://www.linkedin.com/in/wilsonespitia/)
 
 <p>
-Me apasiona el universo de la <strong>Ciencia de Datos</strong> y tengo experiencia destacada en áreas como la <strong>Analítica de Datos, Big Data e Inteligencia Artificial</strong>. Actualmente, me desempeño como <strong>Científico de Datos y Consultor BI Senior</strong>, al igual que en el <strong>liderazgo de equipos y proyectos de Ciencia de Datos</strong>. Mi objetivo es continuar desarrollando mi carrera profesional en estas áreas, seguir aprendiendo, enseñando y compartiendo conocimientos cada día.
+Me apasiona el universo de la <strong>Ciencia de Datos</strong> y tengo experiencia destacada en áreas como la <strong>Analítica de Datos, Business Intelligence e Inteligencia Artificial</strong>. Actualmente, me desempeño como <strong>Científico de Datos y Consultor BI Senior</strong>, al igual que en el <strong>liderazgo de equipos y proyectos de Ciencia de Datos</strong>. Mi objetivo es continuar desarrollando mi carrera profesional en estas áreas, seguir aprendiendo, enseñando y compartiendo conocimientos cada día.
 </p>
 
 <h3 align="left">Contactame y conoceme:</h3>
